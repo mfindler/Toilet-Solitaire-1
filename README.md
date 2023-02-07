@@ -7,7 +7,7 @@ Hold the deck in your hand face down. Draw four cards from the back of the deck.
 [One set of rules] If the first and fourth card are the same suit, remove and discard the second and third cards. If the first and fourth card are the same number (or the same face card [Rank]), remove and discard all four cards. If neither of these scenarios describes the hand, draw another card from the back. [10 pts]  
 
 Additional rules (the way I play) – 
-(1)	If two neighboring cards have the same Rank, Remove them. [10 pts] 
+(1)	If two neighboring cards have the same Rank, Remove them. If 1st ane 4th have same Rank, remove all 4. [10 pts] 
 (2)	If the 1st and 4th have the same suit and the 1st and 2nd are the same Rank, Remove 1st, 2nd, and 3rd card. [10 pts] 
 (3)	Keep Score – what does this mean? <5 remaining cards is a win, 0 is a super win. (I have never had a super win!) [10]
 a.	Extra Credit [+2 pts] Have system automatically play game to determine chances of Super Win!
@@ -19,3 +19,5 @@ Tip
 Studies have shown that shuffling the deck seven times will give you the maximum randomization of cards. Do we need to do this?
 Warnings:
 Like with most games that are highly addictive, it's important to take breaks and make sure you don't slouch over too much while playing.
+[How to Play One Handed Solitaire.docx](https://github.com/mfindler/Toilet-Solitaire-1/files/10679821/How.to.Play.One.Handed.Solitaire.docx)
+[c# - How to deal a deck of cards_ - Stack Overflow.pdf](https://github.com/mfindler/Toilet-Solitaire-1/files/10679832/c.-.How.to.deal.a.deck.of.cards_.-.Stack.Overflow.pdf)
